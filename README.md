@@ -5,6 +5,10 @@ The workshop introduces frameworks, concepts, and language that encapsulates imm
 
 Through this introductory workshop, you will gain knowledge of creative computation terminologies, how to navigate a visual programming environment (TouchDesigner), and use script-based programming protocols within this environment using Python. The workshop will introduce the interface and system building in TouchDesigner, as well as an overview of different operator nodes.
 
+__Schein:__ Grundlagenschein <br />
+__Attendance:__ In order to successfully earn the credit, it is expected that attendees maintain a minimum of 95% attendance across all sessions. <br />
+
+
 # Schedule
 31.05-02.06.2023
 10:00-13:00/14:00
