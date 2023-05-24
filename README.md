@@ -1,0 +1,11 @@
+# Creative-Computation-I
+Introductory Workshop to Toucdesigner as a creative computation tool
+
+The workshop introduces frameworks, concepts, and language that encapsulates immersive and real-time media creation for performances and installations. We will look into possible creative computation methodologies; we will mainly concentrate on visual programming environments(Touchdesigner).
+
+Through this introductory workshop, you will gain knowledge of creative computation terminologies, how to navigate a visual programming environment (TouchDesigner), and use script-based programming protocols within this environment using Python. The workshop will introduce the interface and system building in TouchDesigner, as well as an overview of different operator nodes.
+
+# Schedule:
+31.05-02.06.2023
+10:00-13:00/14:00
+@GamesRoom HfG Karlsruhe
