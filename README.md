@@ -7,6 +7,7 @@ Through this introductory workshop, you will gain knowledge of creative computat
 
 __Schein:__ Grundlagenschein <br />
 __Attendance:__ In order to successfully earn the credit, it is expected that attendees maintain a minimum of 95% attendance across all sessions. <br />
+__Touchdesigner Link:__ https://derivative.ca/download
 
 
 # Schedule
