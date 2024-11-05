@@ -20,7 +20,7 @@ function draw() {
   background(0, 0, 255, 25); // Light trailing effect for animation
 
   // Loop through each rectangle to update and draw
-  for (let i = 0; i < rectangles.length; i++) {
+  for (let i = 0; i < rectangles.length; i++) { // Loop through each rectangle
     let rectObj = rectangles[i];
     
     fill(255, 255, 255, rectObj.opacity); // Set color with random opacity
