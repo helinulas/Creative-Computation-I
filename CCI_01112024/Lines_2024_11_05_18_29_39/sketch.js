@@ -4,7 +4,7 @@ let angleOffset = 0; // Initial angle
 
 function setup() {
   createCanvas(400, 400);
-  background(200); // White background
+  background(255); // White background
 
   // Start at a random position on the canvas
   x = width / 2;

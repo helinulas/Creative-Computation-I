@@ -1,11 +1,13 @@
 html, body {
-  margin: 0;
-  padding: 0;
+  margin: 20px;
+  padding: 20px;
 }
 canvas {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: left;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
 }
 
 header {
@@ -18,22 +20,21 @@ header {
   padding-left: 10px;
 }
 
-caption {
-  font-family: "DM Serif Text", serif;
+header h3 {
+  font-family: "Inter", sans-serif;
+  font-style: italic !important;
   font-size: 1.5em;
-  background-color: white;
+  font-weight: 900;
   color: red;
   text-align: left;
-  padding-left: 10px;
+  padding-left: 40px;
   padding-top: 20px;
-  position: fixed;
-  bottom: 0;
+  
 }
 
-paragraph {
+p {
   font-family: "Inter", sans-serif;
   font-size: 1em;
-  background-color: white;
   color: red;
   text-align: left;
   padding-left: 10px;
