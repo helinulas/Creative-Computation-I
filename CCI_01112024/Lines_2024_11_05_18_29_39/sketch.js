@@ -35,6 +35,10 @@ function draw() {
     //loopp every 1000 frames
     if (frameCount % 100 == 0) {
       // Start at a random position on the canvas
+do {
+        //animate the lines
+  
+} while (condition);      
       x = width / 2;
       y = height / 2;
       angleOffset = 0;
