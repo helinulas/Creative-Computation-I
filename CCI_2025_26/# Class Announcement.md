@@ -35,6 +35,10 @@ Integrate an animation into the composition you have already created. You can do
 
 Check out the example file. On Composition and Concept:
 
+<img src="Screenshot%202025-11-28%20at%2017.26.02.png" alt="Screenshot example" width="500">
+
+[Download the class file](Second_class.7.toe)
+
 **What would be one element you would like to have a state change in?** For example: from still composition to animated composition, from a colour to b colour, from a scale to b scale, etc.
 
 We will create a trigger in the next session based on the system to switch states, and we will look into [MediaPipe](https://github.com/torinmb/mediapipe-touchdesigner) to see how to use it for such a trigger.
