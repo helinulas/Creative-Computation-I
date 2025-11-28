@@ -37,4 +37,4 @@ Check out the example file. On Composition and Concept:
 
 **What would be one element you would like to have a state change in?** For example: from still composition to animated composition, from a colour to b colour, from a scale to b scale, etc.
 
-We will create a trigger in the next session based on the system to switch states, and we will look into MediaPipe to see how to use it for such a trigger.
+We will create a trigger in the next session based on the system to switch states, and we will look into [MediaPipe](https://github.com/torinmb/mediapipe-touchdesigner) to see how to use it for such a trigger.
