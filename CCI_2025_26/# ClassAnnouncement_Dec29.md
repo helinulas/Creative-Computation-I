@@ -34,6 +34,5 @@ Here are some reference images showing how to structure your hand tracking patch
 
 In the next session, we will look at your files and explore how to trigger state transitions. For example, we'll see how to move from a still image to a MediaPipe-triggered version. We'll also look into using timers to create scenes and manage state changes.
 
----
 
-**Note:** There is no guest lecture scheduled for this session.v
+
